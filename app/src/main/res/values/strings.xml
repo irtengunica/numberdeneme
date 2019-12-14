@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">numberdeneme</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="tv_label">Type Your Message : </string>
+    <string name="button_label">Show Prompt Dialog</string>
+</resources>
